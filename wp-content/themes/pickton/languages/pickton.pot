@@ -1,0 +1,675 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pickton version 1.0\n"
+"POT-Creation-Date: 2018-01-10 16:31+0500\n"
+"PO-Revision-Date: 2018-01-10 16:32+0500\n"
+"Last-Translator: amir <amirkhan0617@gmail.com>\n"
+"Language-Team: Theme Kalia <muhibbur@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;_n;_x\n"
+"X-Poedit-SearchPath-0: F:\\softwears\\xampp\\htdocs\\test_work\\trumph\\wp-"
+"content\\themes\\pickton\n"
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/404.php:9
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/404.php:29
+msgid "404"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/404.php:30
+msgid "OOPPS! THE PAGE YOU WERE LOOKING FOR, COULDNT BE FOUND."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/404.php:31
+msgid "Try the search below to find matching pages:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/blog.php:13
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/latest_news.php:39
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/single.php:72
+msgid "By"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/blog.php:18
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:67
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/blog_grid_view.php:36
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/history_in_words.php:58
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/latest_news.php:47
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/sidebar.php:16
+msgid "Read More"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/comments.php:35
+msgid "Comment navigation"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/comments.php:36
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/functions.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/functions.php:35
+msgid "Footer Menu"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/functions.php:67
+msgid "Default Sidebar"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/functions.php:69
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/functions.php:88
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/functions.php:76
+msgid "Footer Sidebar"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/functions.php:78
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/functions.php:86
+msgid "Blog Listing"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/functions.php:176
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/functions.php:177
+msgid "on"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/header.php:79
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/header.php:81
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/header.php:185
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/header.php:187
+msgid "Pickton"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/header.php:92
+msgid "Call Us"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/header.php:102
+msgid "Email at"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/header.php:112
+msgid "Office Hrs"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:26
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:142
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:234
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:315
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:450
+msgid "All Categories"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:50
+msgid "No Sidebar"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:115
+msgid "Home"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:163
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:164
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:165
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:166
+msgid "Archive for "
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:167
+msgid "Search Results for "
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:168
+msgid "404 - Not Found"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:186
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:213
+msgid "You must agreed the policy"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:223
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:227
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:251
+msgid "Reply"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:285
+msgid "Your Name"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:286
+msgid "Your Email"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:287
+msgid "Enter a Subject"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:289
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:301
+msgid "Type Comment Here"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:304
+msgid "Your email address will not be published."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:309
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:310
+msgid "Cancel reply"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:311
+msgid "Submit Now "
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:335
+msgid "Add Your Reviews"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:594
+msgid "Poor"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:594
+msgid "Satisfactory"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:594
+msgid "Good"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:594
+msgid "Better"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:594
+msgid "Awesome"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:616
+#, php-format
+msgid "Average Rating %s"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:656
+msgid "Loading..."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/functions.php:705
+msgid "logo"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:10
+msgid "Pickton About Us"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:10
+msgid "Show the information about company"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:58
+msgid "Footer Logo Image:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:62
+msgid "Content:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:66
+msgid "Button Title:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:70
+msgid "Button Link:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:71
+msgid "#"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:85
+msgid "Pickton Latest News"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:85
+msgid "Show the Latest News"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:127
+msgid "Latest News"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:132
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:224
+msgid "Title: "
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:136
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:228
+msgid "No. of Posts:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:141
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:233
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:314
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:449
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/single-bunch-projects.php:51
+msgid "Category"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:177
+msgid "Pickton Popular Posts"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:177
+msgid "Show the Popular Posts"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:219
+msgid "Popular Posts"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:267
+msgid "Pickton Services Sidebar"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:267
+msgid "Show the Services Sidebar"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:310
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:445
+msgid "Number of posts: "
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:343
+msgid "Pickton Our Brochures"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:343
+msgid "Show the info Our Brochures"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:355
+msgid "Research Results"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:355
+msgid "Download.Pdf"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:356
+msgid "Service Brochure"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:356
+msgid "Download.txt"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:382
+msgid "PDF Link:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:383
+msgid "PDF link here"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:386
+msgid "Work Doc Link:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:387
+msgid "Word link here"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:401
+msgid "Pickton Our Team"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/library/widgets.php:401
+msgid "Show the Our Team"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/loader.php:152
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/loader.php:153
+msgid "Theme Options"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/about_our_company.php:18
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/about_our_company.php:36
+msgid "Awesome Image"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/contact_us.php:15
+msgid "Address:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/contact_us.php:16
+msgid "Call Us:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/contact_us.php:17
+msgid "Mail Us:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/contact_us.php:18
+msgid "Opening Time:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/newsletter.php:13
+msgid "Enter Email Address"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/newsletter.php:14
+msgid "Subscribe"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/our_business.php:14
+msgid "Business Image"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/our_team.php:46
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/our_team2.php:37
+msgid "Ph:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/our_team.php:47
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/modules/shortcodes/our_team2.php:38
+msgid "Email:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:610
+msgid "Update Required"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:914
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2620
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3667
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1021
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1021
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1024
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1024
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2429
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2479
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2569
+msgid "unknown"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2620
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2771
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2995
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3021
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3039
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/plugins.php:63
+msgid "Theme Support (Required)"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/plugins.php:74
+msgid "Revolution Slider"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/plugins.php:85
+msgid "KingComposer"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/plugins.php:90
+msgid "Contact Form 7"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/thirdparty/tgm-plugin-activation/plugins.php:96
+msgid "Woocommerce"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/vc_map.php:6
+msgid "bbPress Forums"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/vc_map.php:9
+msgid "Jollyall"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/vc_map.php:16
+msgid "Forum"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/vc_map.php:177
+msgid "Container"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/includes/vc_map.php:180
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/index.php:29
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/single.php:21
+msgid "Blog"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/search.php:72
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/searchform.php:5
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/searchform3.php:2
+msgid "Search..."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/searchform2.php:3
+msgid "Search here"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/sidebar.php:8
+msgid "by : "
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/sidebar.php:9
+msgid "in : "
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/single-bunch-projects.php:49
+msgid "Customer"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/single-bunch-projects.php:50
+msgid "Live demo"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/single-bunch-projects.php:52
+msgid "Date"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/single-bunch-projects.php:53
+msgid "Tags"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/single-bunch-projects.php:63
+msgid "Launch Project"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/single.php:77
+msgid "Pages: "
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/cart/cart-totals.php:24
+msgid "Subtotal"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/cart/cart-totals.php:61
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/cart/cart.php:37
+msgid "Total"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/cart/cart.php:33
+msgid "Preview"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/cart/cart.php:34
+msgid "Product"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/cart/cart.php:35
+msgid "Price"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/cart/cart.php:36
+msgid "Quantity"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/cart/cart.php:118
+msgid "Remove this item"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/cart/cart.php:137
+msgid "Coupon:"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/cart/cart.php:169
+msgid "Shipping"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/checkout/payment.php:34
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/checkout/payment.php:41
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/content-product.php:64
+msgid "Add to Cart"
+msgstr ""
+
+#: F:\softwears\xampp\htdocs\test_work\trumph\wp-content\themes\pickton/woocommerce/single-product/related.php:27
+msgid "Related Products"
+msgstr ""
