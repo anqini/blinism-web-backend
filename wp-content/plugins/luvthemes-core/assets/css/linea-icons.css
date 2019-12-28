@@ -1,0 +1,1045 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "linea";
+  src:url("../fonts/linea.eot");
+  src:url("../fonts/linea.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/linea.woff") format("woff"),
+    url("../fonts/linea.ttf") format("truetype"),
+    url("../fonts/linea.svg#linea") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "linea" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="linea-icon-"]:before,
+[class*=" linea-icon-"]:before {
+  font-family: "linea" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.linea-icon-basic-accelerator:before {
+  content: "a";
+}
+.linea-icon-basic-alarm:before {
+  content: "b";
+}
+.linea-icon-basic-anchor:before {
+  content: "c";
+}
+.linea-icon-basic-anticlockwise:before {
+  content: "d";
+}
+.linea-icon-basic-archive:before {
+  content: "e";
+}
+.linea-icon-basic-archive-full:before {
+  content: "f";
+}
+.linea-icon-basic-ban:before {
+  content: "g";
+}
+.linea-icon-basic-battery-charge:before {
+  content: "h";
+}
+.linea-icon-basic-battery-empty:before {
+  content: "i";
+}
+.linea-icon-basic-battery-full:before {
+  content: "j";
+}
+.linea-icon-basic-battery-half:before {
+  content: "k";
+}
+.linea-icon-basic-bolt:before {
+  content: "l";
+}
+.linea-icon-basic-book:before {
+  content: "m";
+}
+.linea-icon-basic-book-pen:before {
+  content: "n";
+}
+.linea-icon-basic-book-pencil:before {
+  content: "o";
+}
+.linea-icon-basic-bookmark:before {
+  content: "p";
+}
+.linea-icon-basic-calculator:before {
+  content: "q";
+}
+.linea-icon-basic-calendar:before {
+  content: "r";
+}
+.linea-icon-basic-cards-diamonds:before {
+  content: "s";
+}
+.linea-icon-basic-cards-hearts:before {
+  content: "t";
+}
+.linea-icon-basic-case:before {
+  content: "u";
+}
+.linea-icon-basic-chronometer:before {
+  content: "v";
+}
+.linea-icon-basic-clessidre:before {
+  content: "w";
+}
+.linea-icon-basic-clock:before {
+  content: "x";
+}
+.linea-icon-basic-clockwise:before {
+  content: "y";
+}
+.linea-icon-basic-cloud:before {
+  content: "z";
+}
+.linea-icon-basic-clubs:before {
+  content: "A";
+}
+.linea-icon-basic-compass:before {
+  content: "B";
+}
+.linea-icon-basic-cup:before {
+  content: "C";
+}
+.linea-icon-basic-diamonds:before {
+  content: "D";
+}
+.linea-icon-basic-display:before {
+  content: "E";
+}
+.linea-icon-basic-download:before {
+  content: "F";
+}
+.linea-icon-basic-exclamation:before {
+  content: "G";
+}
+.linea-icon-basic-eye:before {
+  content: "H";
+}
+.linea-icon-basic-eye-closed:before {
+  content: "I";
+}
+.linea-icon-basic-female:before {
+  content: "J";
+}
+.linea-icon-basic-flag1:before {
+  content: "K";
+}
+.linea-icon-basic-flag2:before {
+  content: "L";
+}
+.linea-icon-basic-floppydisk:before {
+  content: "M";
+}
+.linea-icon-basic-folder:before {
+  content: "N";
+}
+.linea-icon-basic-folder-multiple:before {
+  content: "O";
+}
+.linea-icon-basic-gear:before {
+  content: "P";
+}
+.linea-icon-basic-geolocalize-01:before {
+  content: "Q";
+}
+.linea-icon-basic-geolocalize-05:before {
+  content: "R";
+}
+.linea-icon-basic-globe:before {
+  content: "S";
+}
+.linea-icon-basic-gunsight:before {
+  content: "T";
+}
+.linea-icon-basic-hammer:before {
+  content: "U";
+}
+.linea-icon-basic-headset:before {
+  content: "V";
+}
+.linea-icon-basic-heart:before {
+  content: "W";
+}
+.linea-icon-basic-heart-broken:before {
+  content: "X";
+}
+.linea-icon-basic-helm:before {
+  content: "Y";
+}
+.linea-icon-basic-home:before {
+  content: "Z";
+}
+.linea-icon-basic-info:before {
+  content: "0";
+}
+.linea-icon-basic-ipod:before {
+  content: "1";
+}
+.linea-icon-basic-joypad:before {
+  content: "2";
+}
+.linea-icon-basic-key:before {
+  content: "3";
+}
+.linea-icon-basic-keyboard:before {
+  content: "4";
+}
+.linea-icon-basic-laptop:before {
+  content: "5";
+}
+.linea-icon-basic-life-buoy:before {
+  content: "6";
+}
+.linea-icon-basic-lightbulb:before {
+  content: "7";
+}
+.linea-icon-basic-link:before {
+  content: "8";
+}
+.linea-icon-basic-lock:before {
+  content: "9";
+}
+.linea-icon-basic-lock-open:before {
+  content: "!";
+}
+.linea-icon-basic-magic-mouse:before {
+  content: "\"";
+}
+.linea-icon-basic-magnifier:before {
+  content: "#";
+}
+.linea-icon-basic-magnifier-minus:before {
+  content: "$";
+}
+.linea-icon-basic-magnifier-plus:before {
+  content: "%";
+}
+.linea-icon-basic-mail:before {
+  content: "&";
+}
+.linea-icon-basic-mail-multiple:before {
+  content: "'";
+}
+.linea-icon-basic-mail-open:before {
+  content: "(";
+}
+.linea-icon-basic-mail-open-text:before {
+  content: ")";
+}
+.linea-icon-basic-male:before {
+  content: "*";
+}
+.linea-icon-basic-map:before {
+  content: "+";
+}
+.linea-icon-basic-message:before {
+  content: ",";
+}
+.linea-icon-basic-message-multiple:before {
+  content: "-";
+}
+.linea-icon-basic-message-txt:before {
+  content: ".";
+}
+.linea-icon-basic-mixer2:before {
+  content: "/";
+}
+.linea-icon-basic-mouse:before {
+  content: ":";
+}
+.linea-icon-basic-notebook:before {
+  content: ";";
+}
+.linea-icon-basic-notebook-pen:before {
+  content: "<";
+}
+.linea-icon-basic-notebook-pencil:before {
+  content: "=";
+}
+.linea-icon-basic-paperplane:before {
+  content: ">";
+}
+.linea-icon-basic-pencil-ruler:before {
+  content: "?";
+}
+.linea-icon-basic-pencil-ruler-pen:before {
+  content: "@";
+}
+.linea-icon-basic-photo:before {
+  content: "[";
+}
+.linea-icon-basic-picture:before {
+  content: "]";
+}
+.linea-icon-basic-picture-multiple:before {
+  content: "^";
+}
+.linea-icon-basic-pin1:before {
+  content: "_";
+}
+.linea-icon-basic-pin2:before {
+  content: "`";
+}
+.linea-icon-basic-postcard:before {
+  content: "{";
+}
+.linea-icon-basic-postcard-multiple:before {
+  content: "|";
+}
+.linea-icon-basic-printer:before {
+  content: "}";
+}
+.linea-icon-basic-question:before {
+  content: "~";
+}
+.linea-icon-basic-rss:before {
+  content: "\\";
+}
+.linea-icon-basic-server:before {
+  content: "\e000";
+}
+.linea-icon-basic-server2:before {
+  content: "\e001";
+}
+.linea-icon-basic-server-cloud:before {
+  content: "\e002";
+}
+.linea-icon-basic-server-download:before {
+  content: "\e003";
+}
+.linea-icon-basic-server-upload:before {
+  content: "\e004";
+}
+.linea-icon-basic-settings:before {
+  content: "\e005";
+}
+.linea-icon-basic-share:before {
+  content: "\e006";
+}
+.linea-icon-basic-sheet:before {
+  content: "\e007";
+}
+.linea-icon-basic-sheet-multiple:before {
+  content: "\e008";
+}
+.linea-icon-basic-sheet-pen:before {
+  content: "\e009";
+}
+.linea-icon-basic-sheet-pencil:before {
+  content: "\e00a";
+}
+.linea-icon-basic-sheet-txt:before {
+  content: "\e00b";
+}
+.linea-icon-basic-signs:before {
+  content: "\e00c";
+}
+.linea-icon-basic-smartphone:before {
+  content: "\e00d";
+}
+.linea-icon-basic-spades:before {
+  content: "\e00e";
+}
+.linea-icon-basic-spread:before {
+  content: "\e00f";
+}
+.linea-icon-basic-spread-bookmark:before {
+  content: "\e010";
+}
+.linea-icon-basic-spread-text:before {
+  content: "\e011";
+}
+.linea-icon-basic-spread-text-bookmark:before {
+  content: "\e012";
+}
+.linea-icon-basic-star:before {
+  content: "\e013";
+}
+.linea-icon-basic-tablet:before {
+  content: "\e014";
+}
+.linea-icon-basic-target:before {
+  content: "\e015";
+}
+.linea-icon-basic-todo:before {
+  content: "\e016";
+}
+.linea-icon-basic-todo-pen:before {
+  content: "\e017";
+}
+.linea-icon-basic-todo-pencil:before {
+  content: "\e018";
+}
+.linea-icon-basic-todo-txt:before {
+  content: "\e019";
+}
+.linea-icon-basic-todolist-pen:before {
+  content: "\e01a";
+}
+.linea-icon-basic-todolist-pencil:before {
+  content: "\e01b";
+}
+.linea-icon-basic-trashcan:before {
+  content: "\e01c";
+}
+.linea-icon-basic-trashcan-full:before {
+  content: "\e01d";
+}
+.linea-icon-basic-trashcan-refresh:before {
+  content: "\e01e";
+}
+.linea-icon-basic-trashcan-remove:before {
+  content: "\e01f";
+}
+.linea-icon-basic-upload:before {
+  content: "\e020";
+}
+.linea-icon-basic-usb:before {
+  content: "\e021";
+}
+.linea-icon-basic-video:before {
+  content: "\e022";
+}
+.linea-icon-basic-watch:before {
+  content: "\e023";
+}
+.linea-icon-basic-webpage:before {
+  content: "\e024";
+}
+.linea-icon-basic-webpage-img-txt:before {
+  content: "\e025";
+}
+.linea-icon-basic-webpage-multiple:before {
+  content: "\e026";
+}
+.linea-icon-basic-webpage-txt:before {
+  content: "\e027";
+}
+.linea-icon-basic-world:before {
+  content: "\e028";
+}
+.linea-icon-ecommerce-bag:before {
+  content: "\e029";
+}
+.linea-icon-ecommerce-bag-check:before {
+  content: "\e02a";
+}
+.linea-icon-ecommerce-bag-cloud:before {
+  content: "\e02b";
+}
+.linea-icon-ecommerce-bag-download:before {
+  content: "\e02c";
+}
+.linea-icon-ecommerce-bag-minus:before {
+  content: "\e02d";
+}
+.linea-icon-ecommerce-bag-plus:before {
+  content: "\e02e";
+}
+.linea-icon-ecommerce-bag-refresh:before {
+  content: "\e02f";
+}
+.linea-icon-ecommerce-bag-remove:before {
+  content: "\e030";
+}
+.linea-icon-ecommerce-bag-search:before {
+  content: "\e031";
+}
+.linea-icon-ecommerce-bag-upload:before {
+  content: "\e032";
+}
+.linea-icon-ecommerce-banknote:before {
+  content: "\e033";
+}
+.linea-icon-ecommerce-banknotes:before {
+  content: "\e034";
+}
+.linea-icon-ecommerce-basket:before {
+  content: "\e035";
+}
+.linea-icon-ecommerce-basket-check:before {
+  content: "\e036";
+}
+.linea-icon-ecommerce-basket-cloud:before {
+  content: "\e037";
+}
+.linea-icon-ecommerce-basket-download:before {
+  content: "\e038";
+}
+.linea-icon-ecommerce-basket-minus:before {
+  content: "\e039";
+}
+.linea-icon-ecommerce-basket-plus:before {
+  content: "\e03a";
+}
+.linea-icon-ecommerce-basket-refresh:before {
+  content: "\e03b";
+}
+.linea-icon-ecommerce-basket-remove:before {
+  content: "\e03c";
+}
+.linea-icon-ecommerce-basket-search:before {
+  content: "\e03d";
+}
+.linea-icon-ecommerce-basket-upload:before {
+  content: "\e03e";
+}
+.linea-icon-ecommerce-bath:before {
+  content: "\e03f";
+}
+.linea-icon-ecommerce-cart:before {
+  content: "\e040";
+}
+.linea-icon-ecommerce-cart-check:before {
+  content: "\e041";
+}
+.linea-icon-ecommerce-cart-cloud:before {
+  content: "\e042";
+}
+.linea-icon-ecommerce-cart-content:before {
+  content: "\e043";
+}
+.linea-icon-ecommerce-cart-download:before {
+  content: "\e044";
+}
+.linea-icon-ecommerce-cart-minus:before {
+  content: "\e045";
+}
+.linea-icon-ecommerce-cart-plus:before {
+  content: "\e046";
+}
+.linea-icon-ecommerce-cart-refresh:before {
+  content: "\e047";
+}
+.linea-icon-ecommerce-cart-remove:before {
+  content: "\e048";
+}
+.linea-icon-ecommerce-cart-search:before {
+  content: "\e049";
+}
+.linea-icon-ecommerce-cart-upload:before {
+  content: "\e04a";
+}
+.linea-icon-ecommerce-cent:before {
+  content: "\e04b";
+}
+.linea-icon-ecommerce-colon:before {
+  content: "\e04c";
+}
+.linea-icon-ecommerce-creditcard:before {
+  content: "\e04d";
+}
+.linea-icon-ecommerce-diamond:before {
+  content: "\e04e";
+}
+.linea-icon-ecommerce-dollar:before {
+  content: "\e04f";
+}
+.linea-icon-ecommerce-euro:before {
+  content: "\e050";
+}
+.linea-icon-ecommerce-franc:before {
+  content: "\e051";
+}
+.linea-icon-ecommerce-gift:before {
+  content: "\e052";
+}
+.linea-icon-ecommerce-graph1:before {
+  content: "\e053";
+}
+.linea-icon-ecommerce-graph2:before {
+  content: "\e054";
+}
+.linea-icon-ecommerce-graph3:before {
+  content: "\e055";
+}
+.linea-icon-ecommerce-graph-decrease:before {
+  content: "\e056";
+}
+.linea-icon-ecommerce-graph-increase:before {
+  content: "\e057";
+}
+.linea-icon-ecommerce-guarani:before {
+  content: "\e058";
+}
+.linea-icon-ecommerce-kips:before {
+  content: "\e059";
+}
+.linea-icon-ecommerce-lira:before {
+  content: "\e05a";
+}
+.linea-icon-ecommerce-megaphone:before {
+  content: "\e05b";
+}
+.linea-icon-ecommerce-money:before {
+  content: "\e05c";
+}
+.linea-icon-ecommerce-naira:before {
+  content: "\e05d";
+}
+.linea-icon-ecommerce-pesos:before {
+  content: "\e05e";
+}
+.linea-icon-ecommerce-pound:before {
+  content: "\e05f";
+}
+.linea-icon-ecommerce-receipt:before {
+  content: "\e060";
+}
+.linea-icon-ecommerce-receipt-bath:before {
+  content: "\e061";
+}
+.linea-icon-ecommerce-receipt-cent:before {
+  content: "\e062";
+}
+.linea-icon-ecommerce-receipt-dollar:before {
+  content: "\e063";
+}
+.linea-icon-ecommerce-receipt-euro:before {
+  content: "\e064";
+}
+.linea-icon-ecommerce-receipt-franc:before {
+  content: "\e065";
+}
+.linea-icon-ecommerce-receipt-guarani:before {
+  content: "\e066";
+}
+.linea-icon-ecommerce-receipt-kips:before {
+  content: "\e067";
+}
+.linea-icon-ecommerce-receipt-lira:before {
+  content: "\e068";
+}
+.linea-icon-ecommerce-receipt-naira:before {
+  content: "\e069";
+}
+.linea-icon-ecommerce-receipt-pesos:before {
+  content: "\e06a";
+}
+.linea-icon-ecommerce-receipt-pound:before {
+  content: "\e06b";
+}
+.linea-icon-ecommerce-receipt-rublo:before {
+  content: "\e06c";
+}
+.linea-icon-ecommerce-receipt-rupee:before {
+  content: "\e06d";
+}
+.linea-icon-ecommerce-receipt-tugrik:before {
+  content: "\e06e";
+}
+.linea-icon-ecommerce-receipt-won:before {
+  content: "\e06f";
+}
+.linea-icon-ecommerce-receipt-yen:before {
+  content: "\e070";
+}
+.linea-icon-ecommerce-receipt-yen2:before {
+  content: "\e071";
+}
+.linea-icon-ecommerce-recept-colon:before {
+  content: "\e072";
+}
+.linea-icon-ecommerce-rublo:before {
+  content: "\e073";
+}
+.linea-icon-ecommerce-rupee:before {
+  content: "\e074";
+}
+.linea-icon-ecommerce-safe:before {
+  content: "\e075";
+}
+.linea-icon-ecommerce-sale:before {
+  content: "\e076";
+}
+.linea-icon-ecommerce-sales:before {
+  content: "\e077";
+}
+.linea-icon-ecommerce-ticket:before {
+  content: "\e078";
+}
+.linea-icon-ecommerce-tugriks:before {
+  content: "\e079";
+}
+.linea-icon-ecommerce-wallet:before {
+  content: "\e07a";
+}
+.linea-icon-ecommerce-won:before {
+  content: "\e07b";
+}
+.linea-icon-ecommerce-yen:before {
+  content: "\e07c";
+}
+.linea-icon-ecommerce-yen2:before {
+  content: "\e07d";
+}
+.linea-icon-music-beginning-button:before {
+  content: "\e029";
+}
+.linea-icon-music-bell:before {
+  content: "\e02a";
+}
+.linea-icon-music-cd:before {
+  content: "\e02b";
+}
+.linea-icon-music-diapason:before {
+  content: "\e02c";
+}
+.linea-icon-music-eject-button:before {
+  content: "\e02d";
+}
+.linea-icon-music-end-button:before {
+  content: "\e02e";
+}
+.linea-icon-music-fastforward-button:before {
+  content: "\e02f";
+}
+.linea-icon-music-headphones:before {
+  content: "\e030";
+}
+.linea-icon-music-ipod:before {
+  content: "\e031";
+}
+.linea-icon-music-loudspeaker:before {
+  content: "\e032";
+}
+.linea-icon-music-microphone:before {
+  content: "\e033";
+}
+.linea-icon-music-microphone-old:before {
+  content: "\e034";
+}
+.linea-icon-music-mixer:before {
+  content: "\e035";
+}
+.linea-icon-music-mute:before {
+  content: "\e036";
+}
+.linea-icon-music-note-multiple:before {
+  content: "\e037";
+}
+.linea-icon-music-note-single:before {
+  content: "\e038";
+}
+.linea-icon-music-pause-button:before {
+  content: "\e039";
+}
+.linea-icon-music-play-button:before {
+  content: "\e03a";
+}
+.linea-icon-music-playlist:before {
+  content: "\e03b";
+}
+.linea-icon-music-radio-ghettoblaster:before {
+  content: "\e03c";
+}
+.linea-icon-music-radio-portable:before {
+  content: "\e03d";
+}
+.linea-icon-music-record:before {
+  content: "\e03e";
+}
+.linea-icon-music-recordplayer:before {
+  content: "\e03f";
+}
+.linea-icon-music-repeat-button:before {
+  content: "\e040";
+}
+.linea-icon-music-rewind-button:before {
+  content: "\e041";
+}
+.linea-icon-music-shuffle-button:before {
+  content: "\e042";
+}
+.linea-icon-music-stop-button:before {
+  content: "\e043";
+}
+.linea-icon-music-tape:before {
+  content: "\e044";
+}
+.linea-icon-music-volume-down:before {
+  content: "\e045";
+}
+.linea-icon-music-volume-up:before {
+  content: "\e046";
+}
+.linea-icon-ecommerce-bag:before {
+  content: "\e047";
+}
+.linea-icon-ecommerce-bag-check:before {
+  content: "\e048";
+}
+.linea-icon-ecommerce-bag-cloud:before {
+  content: "\e049";
+}
+.linea-icon-ecommerce-bag-download:before {
+  content: "\e04a";
+}
+.linea-icon-ecommerce-bag-minus:before {
+  content: "\e04b";
+}
+.linea-icon-ecommerce-bag-plus:before {
+  content: "\e04c";
+}
+.linea-icon-ecommerce-bag-refresh:before {
+  content: "\e04d";
+}
+.linea-icon-ecommerce-bag-remove:before {
+  content: "\e04e";
+}
+.linea-icon-ecommerce-bag-search:before {
+  content: "\e04f";
+}
+.linea-icon-ecommerce-bag-upload:before {
+  content: "\e050";
+}
+.linea-icon-ecommerce-banknote:before {
+  content: "\e051";
+}
+.linea-icon-ecommerce-banknotes:before {
+  content: "\e052";
+}
+.linea-icon-ecommerce-basket:before {
+  content: "\e053";
+}
+.linea-icon-ecommerce-basket-check:before {
+  content: "\e054";
+}
+.linea-icon-ecommerce-basket-cloud:before {
+  content: "\e055";
+}
+.linea-icon-ecommerce-basket-download:before {
+  content: "\e056";
+}
+.linea-icon-ecommerce-basket-minus:before {
+  content: "\e057";
+}
+.linea-icon-ecommerce-basket-plus:before {
+  content: "\e058";
+}
+.linea-icon-ecommerce-basket-refresh:before {
+  content: "\e059";
+}
+.linea-icon-ecommerce-basket-remove:before {
+  content: "\e05a";
+}
+.linea-icon-ecommerce-basket-search:before {
+  content: "\e05b";
+}
+.linea-icon-ecommerce-basket-upload:before {
+  content: "\e05c";
+}
+.linea-icon-ecommerce-bath:before {
+  content: "\e05d";
+}
+.linea-icon-ecommerce-cart:before {
+  content: "\e05e";
+}
+.linea-icon-ecommerce-cart-check:before {
+  content: "\e05f";
+}
+.linea-icon-ecommerce-cart-cloud:before {
+  content: "\e060";
+}
+.linea-icon-ecommerce-cart-content:before {
+  content: "\e061";
+}
+.linea-icon-ecommerce-cart-download:before {
+  content: "\e062";
+}
+.linea-icon-ecommerce-cart-minus:before {
+  content: "\e063";
+}
+.linea-icon-ecommerce-cart-plus:before {
+  content: "\e064";
+}
+.linea-icon-ecommerce-cart-refresh:before {
+  content: "\e065";
+}
+.linea-icon-ecommerce-cart-remove:before {
+  content: "\e066";
+}
+.linea-icon-ecommerce-cart-search:before {
+  content: "\e067";
+}
+.linea-icon-ecommerce-cart-upload:before {
+  content: "\e068";
+}
+.linea-icon-ecommerce-cent:before {
+  content: "\e069";
+}
+.linea-icon-ecommerce-colon:before {
+  content: "\e06a";
+}
+.linea-icon-ecommerce-creditcard:before {
+  content: "\e06b";
+}
+.linea-icon-ecommerce-diamond:before {
+  content: "\e06c";
+}
+.linea-icon-ecommerce-dollar:before {
+  content: "\e06d";
+}
+.linea-icon-ecommerce-euro:before {
+  content: "\e06e";
+}
+.linea-icon-ecommerce-franc:before {
+  content: "\e06f";
+}
+.linea-icon-ecommerce-gift:before {
+  content: "\e070";
+}
+.linea-icon-ecommerce-graph1:before {
+  content: "\e071";
+}
+.linea-icon-ecommerce-graph2:before {
+  content: "\e072";
+}
+.linea-icon-ecommerce-graph3:before {
+  content: "\e073";
+}
+.linea-icon-ecommerce-graph-decrease:before {
+  content: "\e074";
+}
+.linea-icon-ecommerce-graph-increase:before {
+  content: "\e075";
+}
+.linea-icon-ecommerce-guarani:before {
+  content: "\e076";
+}
+.linea-icon-ecommerce-kips:before {
+  content: "\e077";
+}
+.linea-icon-ecommerce-lira:before {
+  content: "\e078";
+}
+.linea-icon-ecommerce-megaphone:before {
+  content: "\e079";
+}
+.linea-icon-ecommerce-money:before {
+  content: "\e07a";
+}
+.linea-icon-ecommerce-naira:before {
+  content: "\e07b";
+}
+.linea-icon-ecommerce-pesos:before {
+  content: "\e07c";
+}
+.linea-icon-ecommerce-pound:before {
+  content: "\e07d";
+}
+.linea-icon-ecommerce-receipt:before {
+  content: "\e07e";
+}
+.linea-icon-ecommerce-receipt-bath:before {
+  content: "\e07f";
+}
+.linea-icon-ecommerce-receipt-cent:before {
+  content: "\e080";
+}
+.linea-icon-ecommerce-receipt-dollar:before {
+  content: "\e081";
+}
+.linea-icon-ecommerce-receipt-euro:before {
+  content: "\e082";
+}
+.linea-icon-ecommerce-receipt-franc:before {
+  content: "\e083";
+}
+.linea-icon-ecommerce-receipt-guarani:before {
+  content: "\e084";
+}
+.linea-icon-ecommerce-receipt-kips:before {
+  content: "\e085";
+}
+.linea-icon-ecommerce-receipt-lira:before {
+  content: "\e086";
+}
+.linea-icon-ecommerce-receipt-naira:before {
+  content: "\e087";
+}
+.linea-icon-ecommerce-receipt-pesos:before {
+  content: "\e088";
+}
+.linea-icon-ecommerce-receipt-pound:before {
+  content: "\e089";
+}
+.linea-icon-ecommerce-receipt-rublo:before {
+  content: "\e08a";
+}
+.linea-icon-ecommerce-receipt-rupee:before {
+  content: "\e08b";
+}
+.linea-icon-ecommerce-receipt-tugrik:before {
+  content: "\e08c";
+}
+.linea-icon-ecommerce-receipt-won:before {
+  content: "\e08d";
+}
+.linea-icon-ecommerce-receipt-yen:before {
+  content: "\e08e";
+}
+.linea-icon-ecommerce-receipt-yen2:before {
+  content: "\e08f";
+}
+.linea-icon-ecommerce-recept-colon:before {
+  content: "\e090";
+}
+.linea-icon-ecommerce-rublo:before {
+  content: "\e091";
+}
+.linea-icon-ecommerce-rupee:before {
+  content: "\e092";
+}
+.linea-icon-ecommerce-safe:before {
+  content: "\e093";
+}
+.linea-icon-ecommerce-sale:before {
+  content: "\e094";
+}
+.linea-icon-ecommerce-sales:before {
+  content: "\e095";
+}
+.linea-icon-ecommerce-ticket:before {
+  content: "\e096";
+}
+.linea-icon-ecommerce-tugriks:before {
+  content: "\e097";
+}
+.linea-icon-ecommerce-wallet:before {
+  content: "\e098";
+}
+.linea-icon-ecommerce-won:before {
+  content: "\e099";
+}
+.linea-icon-ecommerce-yen:before {
+  content: "\e09a";
+}
+.linea-icon-ecommerce-yen2:before {
+  content: "\e09b";
+}
